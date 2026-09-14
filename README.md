@@ -1,8 +1,9 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <h1>Hi there, I'm Vijendra Kumar 👋</h1>
-  <p><strong>AI Engineer & GPU Kernel Developer | Computer Vision | High Performance Computing</strong></p>
+  <h1>Hi there, I'm Vijendra Kumar Vaishya 👋</h1>
+  <p><strong>M.S. by Research in Computer Science & Engineering @ IIT Bombay</strong></p>
+  <p><em>Researching LLM Fairness, State-Space Models (Mamba) & High-Performance Systems</em></p>
 
   <p>
     <a href="https://vennyvirtuoso.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live_Site-0071e3?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"></a>
@@ -12,14 +13,15 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/GATE_CSE_2024-AIR_179_(99.82_Percentile)-FFD700?style=flat-square&logo=target&logoColor=black" alt="GATE CS Rank">
-    <img src="https://img.shields.io/badge/IIIT_Gwalior-B.Tech_%2B_M.Tech-00599C?style=flat-square&logo=academia&logoColor=white" alt="Education">
-    <img src="https://img.shields.io/badge/FDA_510(k)-Cleared_RADAR_AI-28A745?style=flat-square&logo=shield&logoColor=white" alt="FDA Cleared">
+    <img src="https://img.shields.io/badge/IIT_Bombay-M.S._by_Research_(CSE)-004B87?style=flat-square&logo=academia&logoColor=white" alt="IIT Bombay">
+    <img src="https://img.shields.io/badge/CPI-8.9_%2F_10-2ea44f?style=flat-square" alt="CPI">
+    <img src="https://img.shields.io/badge/Jabalpur_Engg._College-B.Tech_(IT)-00599C?style=flat-square" alt="JEC Jabalpur">
+    <img src="https://img.shields.io/badge/JEE_Advanced-Qualified-FF8C00?style=flat-square" alt="JEE Advanced">
   </p>
 
-  <!-- Typing SVG Quote / Tagline -->
+  <!-- Typing SVG Tagline -->
   <a href="https://vennyvirtuoso.github.io/Portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Writing+high-performance+Triton+%26+CUDA+GPU+kernels;Building+FDA-cleared+computer+vision+pipelines;AIR+179+in+GATE+CS+2024+(99.82+percentile);Passionate+about+systems%2C+compilers+%26+efficient+AI" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=M.S.+by+Research+in+CSE+%40+IIT+Bombay+(CPI+8.9);Researching+Intersectional+Bias+Detection+in+LLMs;Medical+Video+Segmentation+via+Mamba+SSMs+(WACV+'27);Writing+bare-metal+C%2B%2B17+ARM+NEON+Inference+Engines;Building+SSMT+for+NLTM-Bhashini+(MeitY%2C+Govt.+of+India)" alt="Typing SVG" />
   </a>
 
 </div>
@@ -28,61 +30,88 @@
 
 ## 👨‍💻 About Me
 
-- 🔬 **AI & Systems Engineer** with a strong foundation in deep learning, computer vision, and low-level GPU acceleration.
-- 💼 **Software Engineer at Cloudphysician**, developing FDA 510(k)-cleared computer vision models and edge pipelines for intensive care telemetry.
-- ⚡ **GPU Kernel Engineering**: Specializing in custom OpenAI Triton and CUDA kernels with SRAM fusion, shared-memory tiling, and memory-bandwidth optimization (achieving **3.09x speedups** over PyTorch eager mode).
-- 🎓 **Dual Degree (B.Tech + M.Tech)** in Computer Science & Engineering from **IIIT Gwalior** (GPA: 8.23).
-- 🏆 **AIR 179** out of 100,000+ candidates in **GATE CSE 2024** (Score: 787, 99.82 percentile).
-- 💬 Ask me about: **GPU memory hierarchies, kernel fusion, PyTorch internals, and real-time vision systems**.
+- 🎓 **M.S. by Research Scholar** in Computer Science & Engineering at **IIT Bombay** (2024 – 2027) with a **CPI of 8.9 / 10**.
+- 🎓 **B.Tech in Information Technology** from **Jabalpur Engineering College (JEC), RGPV** (2020 – 2024) with a **CPI of 8.06 / 10**.
+- 🔬 **Research & Thesis**:
+  - **Intersectional Fairness & Bias in LLMs**: Developed `BiasRetriever` for retrieval-based intersectional bias detection, boosting Jaccard score by 18 points over the strongest LLM baseline (*Under Review at EACL 2027*).
+  - **Mamba-based Medical Video Segmentation**: Designed `MIST`, a dual-branch spatio-temporal architecture using Mamba State-Space Models (SSMs) & Cross-Attention Fusion for DSA intracranial vessel segmentation, achieving **0.7801 Dice score** with zero-shot cross-dataset generalization (*Under Review at WACV 2027*).
+- 🇮🇳 **Govt. of India Collaboration**: Contributed to **NLTM-Bhashini Speech-to-Speech Machine Translation (MeitY)**, engineering an automated MLOps retraining engine (expanding corpus from 4.2k to 13.9k+ annotations) and Marathi MWE transformer models (**85.05% test F1**).
+- 🏥 **Healthcare AI**: Built a 2-stage conversational architecture and a 6,900-concept clinical ontology (33k+ edges) for tobacco cessation with the **Public Health Foundation of India (PHFI)** at KCDH Lab, IIT Bombay (**58% Recall@3**, **0.497 MRR**).
+- ⚡ **High-Performance Systems**: Authored a bare-metal **C++17 SwiGLU / Transformer FFN Inference Engine** with 8-wide ARM NEON microkernels (**37–84x speedup** over scalar baseline, INT8 hitting **41.7 GFLOP/s** with <1% error, and register fusion boosting throughput 1.43–1.48x).
+- 🏆 **Academic Milestones**: Qualified **JEE Advanced**, secured **3rd District Rank** in Class 12th Board examinations, scored **100% in Mathematics** in CBSE Class 10th Boards, and solved **500+ LeetCode problems**.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### **Languages & Low-Level Compute**
+### **Languages & Systems**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
-  <img src="https://img.shields.io/badge/OpenAI_Triton-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Triton" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/C++17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++17" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/ARM_NEON_SIMD-0091BD?style=for-the-badge&logo=arm&logoColor=white" alt="ARM NEON" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
-### **Deep Learning & Frameworks**
+### **Machine Learning & Deep Learning**
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="TensorRT" />
+  <img src="https://img.shields.io/badge/Hugging_Face_Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
 </p>
 
-### **Systems, Cloud & Tools**
+### **ML Specializations & Architectures**
 <p>
+  <img src="https://img.shields.io/badge/Mamba_%2F_State--Space_Models-1E293B?style=flat-square" alt="Mamba" />
+  <img src="https://img.shields.io/badge/Vision_Transformers_(ViT)-1E293B?style=flat-square" alt="ViT" />
+  <img src="https://img.shields.io/badge/Retrieval--Augmented_Generation_(RAG)-1E293B?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Contrastive_Learning-1E293B?style=flat-square" alt="Contrastive" />
+  <img src="https://img.shields.io/badge/INT8_Quantization-1E293B?style=flat-square" alt="Quantization" />
+  <img src="https://img.shields.io/badge/Bayesian_Optimization-1E293B?style=flat-square" alt="Bayesian Opt" />
+</p>
+
+### **Backend, Infrastructure & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="W&B" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
 ---
 
-## 🚀 Highlighted Work & Projects
+## 📚 Selected Research & Publications
 
-| Project | Highlights | Tech Stack |
+| Title | Venue / Context | Key Contribution |
 | :--- | :--- | :--- |
-| [**Custom Triton GPU Kernels**](https://vennyvirtuoso.github.io/Portfolio/) | Implemented fused Softmax, Soft-Dice Loss, and vector primitives on NVIDIA A100. Benchmarked **3.09x speedup** via SRAM reuse and reduction tiling. | `Triton`, `CUDA`, `PyTorch Internals` |
-| [**FDA 510(k) Cleared RADAR System**](https://vennyvirtuoso.github.io/Portfolio/) | Real-time bed occupancy and patient telemetry system deployed across hospital ICUs. Achieved **98% accuracy** on edge TPU/GPU devices. | `PyTorch`, `TensorRT`, `Edge AI` |
-| [**Pneumothorax Segmentation**](https://vennyvirtuoso.github.io/Portfolio/) | High-resolution U-Net segmentation on chest radiographs using deep supervision, focal loss, and fast test-time augmentation (**0.84 Dice score**). | `PyTorch`, `OpenCV`, `Albumentations` |
-| [**Acoustic Scene Classification**](https://vennyvirtuoso.github.io/Portfolio/) | CRNN architecture leveraging log-mel spectrogram features and spatial-temporal convolutions for robust environmental audio tagging (**86.4% top-1 accuracy**). | `PyTorch`, `Torchaudio`, `Librosa` |
-| [**Interactive Terminal & GUI Portfolio**](https://vennyvirtuoso.github.io/Portfolio/) | Clean, Apple-inspired portfolio featuring an interactive UNIX shell simulator with Neofetch, custom commands, and theme toggling. | `JavaScript`, `CSS3`, `HTML5` |
+| **Beyond Single-Axis Fairness: Learning to Detect Intersectional Biases** | *EACL 2027 (Under Review)* | Contrastively trained `BiasRetriever` for multi-axis bias detection; boosted Jaccard score by **+18 points** over strongest LLM baseline. |
+| **MIST: Mamba-based Integrated Spatio-Temporal Model for Intracranial Vessel Segmentation** | *WACV 2027 (Under Review)* | Dual-branch spatio-temporal Mamba SSM architecture with Cross-Attention Fusion (`CrossSTF`); achieved **0.7801 Dice** on independent DSCA benchmark with zero retraining. |
+| **Ontology-Aware Persona-based Chatbot for Tobacco Cessation** | *KCDH Lab, IIT Bombay & PHFI* | 6,900-concept clinical ontology (33k+ edges) & decision-tree KG; reduced broken text splits from 84.6% to 5.6%; achieved **58% Recall@3** and **0.497 MRR**. |
+| **Bhashini Speech-to-Speech Machine Translation (SSMT)** | *NLTM-Bhashini, MeitY (Govt. of India)* | Full-stack platform & MLOps retraining engine expanding dataset to 13.9k+ annotations; achieved **85.05% test F1** and **90.76% Complex Predicate detection**. |
+| **Subset Selection for Fine-Tuning** | *Pre-print (IIT Bombay)* | Utility-diversity subset selection for mathematical domain adaptation (with M. Kotecha, S. Gautam, S. Racha). |
 
 ---
 
-## 📊 GitHub Analytics
+## 💻 Featured Systems & Coursework Projects
+
+| Project | Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| [**Fused SwiGLU / Transformer FFN Engine**](https://vennyvirtuoso.github.io/Portfolio/) | Bare-metal C++17 inference engine for LLaMA/Mistral FFN. 8-wide ARM NEON microkernel with **37–84x speedup**; INT8 quantization hitting **41.7 GFLOP/s**; register-level fusion. | `C++17`, `ARM NEON`, `INT8 SIMD` |
+| [**Custom GP & Bayesian Optimization Engine**](https://vennyvirtuoso.github.io/Portfolio/) | From-scratch Gaussian Process surrogate using Cholesky factorizations ($LL^T$) and log-marginal likelihood optimization; analytical EI & PI acquisition converging in 50 evaluations. | `Python`, `NumPy`, `SciPy` |
+| [**Diagram Visual Question Generation**](https://vennyvirtuoso.github.io/Portfolio/) | Coupled LeJEPA encoder with FLAN-T5-Large to surpass 7.8B SOTA model on DiagramQG in Bert-Score (93.55 vs 90.98) with **5.5x fewer parameters** (CS 772, IIT Bombay). | `PyTorch`, `LeJEPA`, `BLIP-2` |
+| [**Controlled LLM Decoding via Sequential Sampling**](https://vennyvirtuoso.github.io/Portfolio/) | Sequential Monte Carlo (SMC) & TSMC controlled decoding achieving **+146% target rarity reward** while eliminating particle weight degeneracy (CS 791, IIT Bombay). | `PyTorch`, `Transformers`, `SMC` |
+| [**StoriesbySafarnama**](https://vennyvirtuoso.github.io/Portfolio/) | Founded & built collaborative digital storytelling platform with full-stack media uploads and integrated DODO Payments checkout and automated refund workflows. | `Full-Stack`, `Python`, `DODO Payments` |
+
+---
+
+## 📊 GitHub Activity & Stats
 
 <div align="center">
   <table border="0">
@@ -119,6 +148,6 @@
   </a>
 </p>
 
-<p align="center">
-  <sub>⭐️ Designed with high precision for <strong>Vijendra Kumar Vaishya</strong> · Hosted on GitHub</sub>
-</p>
+<div align="center">
+  <sub>⭐️ Maintained by <strong>Vijendra Kumar Vaishya</strong> · M.S. by Research @ IIT Bombay</sub>
+</div>
