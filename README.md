@@ -117,17 +117,23 @@
   <table border="0">
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vennyvirtuoso&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8" alt="GitHub Stats" />
+        <a href="https://github.com/vennyvirtuoso">
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=vennyvirtuoso&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8" alt="GitHub Stats" />
+        </a>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vennyvirtuoso&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
+        <a href="https://github.com/vennyvirtuoso">
+          <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vennyvirtuoso&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8" alt="Top Languages" />
+        </a>
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vennyvirtuoso&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="Streak Stats" />
+  <a href="https://github.com/vennyvirtuoso">
+    <img src="https://streak-stats.demolab.com/?user=vennyvirtuoso&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="Streak Stats" />
+  </a>
 </div>
 
 ---
