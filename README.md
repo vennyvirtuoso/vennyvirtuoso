@@ -21,7 +21,7 @@
 
   <!-- Typing SVG Tagline -->
   <a href="https://vennyvirtuoso.github.io/Portfolio/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=M.S.+by+Research+in+CSE+%40+IIT+Bombay+(CPI+8.9);Researching+Intersectional+Bias+Detection+in+LLMs;Medical+Video+Segmentation+via+Mamba+SSMs+(WACV+'27);Writing+bare-metal+C%2B%2B17+ARM+NEON+Inference+Engines;Building+SSMT+for+NLTM-Bhashini+(MeitY%2C+Govt.+of+India)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&lines=M.S.+by+Research+in+CSE+%40+IIT+Bombay+(CPI+8.9);Accepted+at+WACV+2027+(MIST+Mamba+SSM);Researching+Intersectional+Bias+Detection+in+LLMs;Writing+bare-metal+C%2B%2B17+ARM+NEON+Inference+Engines;Building+SSMT+for+NLTM-Bhashini+(MeitY%2C+Govt.+of+India)" alt="Typing SVG" />
   </a>
 
 </div>
