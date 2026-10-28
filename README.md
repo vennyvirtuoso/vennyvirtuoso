@@ -30,11 +30,15 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **M.S. by Research Scholar** in Computer Science & Engineering at **IIT Bombay** (2024 – 2027) with a **CPI of 8.9 / 10**.
-- 🎓 **B.Tech in Information Technology** from **Jabalpur Engineering College (JEC), RGPV** (2020 – 2024) with a **CPI of 8.06 / 10**.
+I am a graduate researcher in Computer Science at IIT Bombay working across the machine learning stack—from foundational model design and representation alignment to low-level systems execution.
+
+My research focuses on making language and vision systems both reliable and efficient:
+
+- 🎓 **M.S. by Research Scholar** in Computer Science & Engineering at **IIT Bombay** (2024 – 2027).
+- 🎓 **B.Tech in Information Technology** from **Jabalpur Engineering College (JEC), RGPV** (2020 – 2024).
 - 🔬 **Research & Thesis**:
-  - **Intersectional Fairness & Bias in LLMs**: Developed `BiasRetriever` for retrieval-based intersectional bias detection, boosting Jaccard score by 18 points over the strongest LLM baseline (*Under Review at EACL 2027*).
   - **Mamba-based Medical Video Segmentation**: Designed `MIST`, a dual-branch spatio-temporal architecture using Mamba State-Space Models (SSMs) & Cross-Attention Fusion for DSA intracranial vessel segmentation, achieving **0.7801 Dice score** with zero-shot cross-dataset generalization (*Accepted at WACV 2027*).
+  - **Intersectional Fairness & Bias in LLMs**: Developed `BiasRetriever` for retrieval-based intersectional bias detection, boosting Jaccard score by 18 points over the strongest LLM baseline (*Under Review at EACL 2027*).
 - 🇮🇳 **Govt. of India Collaboration**: Contributed to **NLTM-Bhashini Speech-to-Speech Machine Translation (MeitY)**, engineering an automated MLOps retraining engine (expanding corpus from 4.2k to 13.9k+ annotations) and Marathi MWE transformer models (**85.05% test F1**).
 - 🏥 **Healthcare AI**: Built a 2-stage conversational architecture and a 6,900-concept clinical ontology (33k+ edges) for tobacco cessation with the **Public Health Foundation of India (PHFI)** at KCDH Lab, IIT Bombay (**58% Recall@3**, **0.497 MRR**).
 - ⚡ **High-Performance Systems**: Authored a bare-metal **C++17 SwiGLU / Transformer FFN Inference Engine** with 8-wide ARM NEON microkernels (**37–84x speedup** over scalar baseline, INT8 hitting **41.7 GFLOP/s** with <1% error, and register fusion boosting throughput 1.43–1.48x).
@@ -91,8 +95,8 @@
 
 | Title | Venue / Context | Key Contribution |
 | :--- | :--- | :--- |
-| **Beyond Single-Axis Fairness: Learning to Detect Intersectional Biases** | *EACL 2027 (Under Review)* | Contrastively trained `BiasRetriever` for multi-axis bias detection; boosted Jaccard score by **+18 points** over strongest LLM baseline. |
 | **MIST: Mamba-based Integrated Spatio-Temporal Model for Intracranial Vessel Segmentation** | *Accepted at WACV 2027* | Dual-branch spatio-temporal Mamba SSM architecture with Cross-Attention Fusion (`CrossSTF`); achieved **0.7801 Dice** on independent DSCA benchmark with zero retraining. |
+| **Beyond Single-Axis Fairness: Learning to Detect Intersectional Biases** | *EACL 2027 (Under Review)* | Contrastively trained `BiasRetriever` for multi-axis bias detection; boosted Jaccard score by **+18 points** over strongest LLM baseline. |
 | **Ontology-Aware Persona-based Chatbot for Tobacco Cessation** | *KCDH Lab, IIT Bombay & PHFI* | 6,900-concept clinical ontology (33k+ edges) & decision-tree KG; reduced broken text splits from 84.6% to 5.6%; achieved **58% Recall@3** and **0.497 MRR**. |
 | **Bhashini Speech-to-Speech Machine Translation (SSMT)** | *NLTM-Bhashini, MeitY (Govt. of India)* | Full-stack platform & MLOps retraining engine expanding dataset to 13.9k+ annotations; achieved **85.05% test F1** and **90.76% Complex Predicate detection**. |
 | **Subset Selection for Fine-Tuning** | *Pre-print (IIT Bombay)* | Utility-diversity subset selection for mathematical domain adaptation (with M. Kotecha, S. Gautam, S. Racha). |
